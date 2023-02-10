@@ -8,4 +8,6 @@
 
 ![Screenshot 2023-02-10 at 14-16-29 404 Page Not Found](https://user-images.githubusercontent.com/95968907/218018749-6cb13769-7859-4688-bed6-28e1943c3607.png)
 
+换了背景并魔改了部分的实际应用效果：[Demo](https://suwkants.github.io/404).
+
 **生存的最大障碍从不是弱小，而是傲慢。**
