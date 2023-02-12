@@ -1,4 +1,4 @@
-# Wandering404
+# Wandering 404
 
 一个小破球 2 旁白风格的 404 页面。
 
